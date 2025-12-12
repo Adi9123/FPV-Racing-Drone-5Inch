@@ -1,0 +1,5 @@
+## PID values placeholder
+# Example:
+# Roll P: 40
+# Pitch P: 40
+# Yaw P: 85

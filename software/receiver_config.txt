@@ -1,0 +1,2 @@
+## Receiver config placeholder
+# e.g., SBUS, iBus settings
