@@ -1,14 +1,112 @@
+# 🛸 5-Inch FPV Racing Drone – SpeedyBee F405 V3 Build
 
-# FPV-Racing-Drone-5Inch
+A high-performance **5-inch FPV racing drone** built for competitive racing, optimized for **stability, agility, and speed**.  
+Designed, tuned, and tested as part of **Team Vajra, MMCOE**, contributing to our performance at **Technoxian Drone Racing (World Rank 4 & AIR 3)**.
 
-Repository structure created as requested.
+---
 
-## Structure
-- /media - photos and thumbnails
-- /hardware - components list, wiring diagram, specs
-- /software - configs and PID values
-- /docs - logs, tuning notes, troubleshooting
-- /videos - links to demo and tuning videos
+## 🚀 Project Overview
 
-**Note:** Replace placeholder files with your real files. You mentioned you'll upload `components_list.md`; put it in `hardware/components_list.md` to replace the placeholder.
+This 5-inch FPV drone was engineered for **high-speed competitive racing**, focusing on:
 
+- 🌀 **Agile cornering**
+- ⚡ **Fast throttle response**
+- 🎯 **Stable flight at high acceleration**
+- 🔧 **Refined PID tuning for race-ready performance**
+
+Powered by the **SpeedyBee F405 V3 Flight Controller**, this drone combines robust hardware, tuned firmware, and carefully selected components for consistent and reliable race performance.
+
+---
+
+## 🧩 Key Features
+
+- ✔️ SpeedyBee F405 V3 Flight Controller  
+- ✔️ 45A BLHeli_S ESC  
+- ✔️ 2306 2400KV Motors  
+- ✔️ 5" Lightweight Racing Frame  
+- ✔️ Optimized PID loops for precision control  
+- ✔️ High-efficiency power handling  
+- ✔️ Camera + VTX for stable FPV feed  
+- ✔️ Blackbox tuning support  
+
+---
+
+## 🔧 Hardware Components
+
+| Component | Model |
+|---------|-------|
+| Flight Controller | SpeedyBee F405 V3 |
+| ESC | 45A BLHeli_S |
+| Motors | 2306 2400KV |
+| Frame | 5” Carbon Fiber |
+| Props | 5” Tri-Blade |
+| Camera | FPV Camera (Runcam / Caddx) |
+| VTX | 5.8 GHz |
+| Battery | 4S LiPo |
+
+📁 **Detailed list:** `/hardware/components_list.md`
+
+---
+
+## 🛠️ Software & Configuration
+
+- **Betaflight 4.x**
+- Custom-tuned **PID values**
+- Adjusted filters for vibration control
+- Receiver configuration (**SBUS / ELRS**)
+- ESC tuning using **BLHeliSuite**
+
+📁 **PID & configuration files:** `/software/`
+
+---
+
+## 🎛️ PID Tuning Approach
+
+Tuning focused on:
+
+- Improved cornering precision  
+- Reduced overshoot  
+- Smooth throttle transitions  
+- Effective vibration elimination  
+
+📁 **Tuning notes:** `/docs/tuning_notes.md`
+
+---
+
+## 🧪 Testing & Performance
+
+- Stable flight at high throttle
+- Smooth cornering at racing speeds
+- Excellent control response
+- Strong performance in confined tracks
+
+📁 **Flight logs:** `/docs/flight_logs.md`
+
+---
+
+## 🎥 Flight Demo
+
+🎬 **Video:**  
+👉 _Add Google Drive / YouTube link here_
+
+---
+
+## 🖼️ Media Gallery
+
+Photos included in `/media/`:
+
+- Drone build
+- Wiring layout
+- Frame design
+- FPV system
+- Battery mounting
+
+---
+
+## 🔮 Future Improvements
+
+- Add Blackbox logs for deeper analysis
+- Optimize filters for even smoother flight
+- Lighter frame upgrade
+- Add **ELRS** for better signal reliability
+- Experiment with **6S setup** for higher acceleration
