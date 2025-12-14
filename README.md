@@ -56,8 +56,6 @@ Powered by the **SpeedyBee F405 V3 Flight Controller**, this drone combines robu
 - Receiver configuration (**SBUS / ELRS**)
 - ESC tuning using **BLHeliSuite**
 
-📁 **PID & configuration files:** `/software/`
-
 ---
 
 ## 🎛️ PID Tuning Approach
@@ -69,8 +67,6 @@ Tuning focused on:
 - Smooth throttle transitions  
 - Effective vibration elimination  
 
-📁 **Tuning notes:** `/docs/tuning_notes.md`
-
 ---
 
 ## 🧪 Testing & Performance
@@ -79,10 +75,6 @@ Tuning focused on:
 - Smooth cornering at racing speeds
 - Excellent control response
 - Strong performance in confined tracks
-
-📁 **Flight logs:** `/docs/flight_logs.md`
-
----
 
 ## 🎥 Flight Demo
 
@@ -101,12 +93,5 @@ Photos included in `/media/`:
 - FPV system
 - Battery mounting
 
----
 
-## 🔮 Future Improvements
 
-- Add Blackbox logs for deeper analysis
-- Optimize filters for even smoother flight
-- Lighter frame upgrade
-- Add **ELRS** for better signal reliability
-- Experiment with **6S setup** for higher acceleration
