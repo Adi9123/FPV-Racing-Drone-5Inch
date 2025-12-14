@@ -1,2 +1,0 @@
-## Betaflight configuration placeholder
-# Paste your full CLI dump here when available.

@@ -1,2 +1,0 @@
-## ESC/BLHeli settings placeholder
-# ESC protocol: DShot600
