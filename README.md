@@ -21,7 +21,7 @@ Powered by the **SpeedyBee F405 V3 Flight Controller**, this drone combines robu
 ## 🧩 Key Features
 
 - ✔️ SpeedyBee F405 V3 Flight Controller  
-- ✔️ 45A BLHeli_S ESC  
+- ✔️ 50A BLHeli_S ESC  
 - ✔️ 2306 2400KV Motors  
 - ✔️ 5" Lightweight Racing Frame  
 - ✔️ Optimized PID loops for precision control  
@@ -42,7 +42,7 @@ Powered by the **SpeedyBee F405 V3 Flight Controller**, this drone combines robu
 | Props | 5” Tri-Blade |
 | Camera | FPV Camera (Runcam / Caddx) |
 | VTX | 5.8 GHz |
-| Battery | 4S LiPo |
+| Battery | 6S LiPo |
 
 📁 **Detailed list:** `/hardware/components_list.md`
 
