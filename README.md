@@ -77,9 +77,7 @@ Tuning focused on:
 - Strong performance in confined tracks
 
 ## 🎥 Flight Demo
-
-🎬 **Video:**  
-👉 _Add Google Drive / YouTube link here_
+In Media Folder
 
 ---
 
